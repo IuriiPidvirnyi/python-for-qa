@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca6201d6-f2d7-482e-8988-0274d41629b6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/python-for-qa.iml" afterPath="$PROJECT_DIR$/.idea/python-for-qa.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/newfile2.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/Python for QA - bugs list - Sheet1.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/alice_in_wonderland.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/csv_example.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/logs.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/newfile.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/bugs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/bugs_new.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/clients.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/course.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/course_transform.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/habraharb_all.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/task5.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson3/task-1.py" afterPath="$PROJECT_DIR$/lesson3/task-1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson3/task-5.py" afterPath="$PROJECT_DIR$/lesson3/task-5.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson3/task-6.py" afterPath="$PROJECT_DIR$/lesson3/task-6.py" />
     </list>
     <ignored path="python-for-qa.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -109,34 +121,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="python-for-qa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-for-qa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-for-qa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-for-qa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-for-qa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -441,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1462985245086</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added missed tasks!">
+      <created>1464988374266</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1464988374266</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -450,11 +441,11 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19917695" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34519956" sideWeight="0.27489713" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34519956" sideWeight="0.44773662" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34519956" sideWeight="0.49711934" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32785466" sideWeight="0.49831367" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34519956" sideWeight="0.7251029" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34519956" sideWeight="0.5522634" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -484,7 +475,8 @@
     <MESSAGE value="Small refactoring" />
     <MESSAGE value="Added tasks for Level 1" />
     <MESSAGE value="Added tasks for Level 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added tasks for Level 2" />
+    <MESSAGE value="Added missed tasks!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added missed tasks!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
